@@ -5,3 +5,5 @@ C:\Users\Toreadors\dropbox\y_meinedokumente\visual studio 2010\Projects\Ping Cha
 C:\Users\Toreadors\dropbox\y_meinedokumente\visual studio 2010\Projects\Ping Chat\Send\obj\x86\Debug\Send.csprojResolveAssemblyReference.cache
 C:\Users\Toreadors\dropbox\y_meinedokumente\visual studio 2010\Projects\Ping Chat\Send\obj\x86\Debug\Send.exe
 C:\Users\Toreadors\dropbox\y_meinedokumente\visual studio 2010\Projects\Ping Chat\Send\obj\x86\Debug\Send.pdb
+C:\Users\Toreadors\Dropbox\y_MeineDokumente\Visual Studio 2010\Projects\PingChat\Send\obj\x86\Debug\Send.exe
+C:\Users\Toreadors\Dropbox\y_MeineDokumente\Visual Studio 2010\Projects\PingChat\Send\obj\x86\Debug\Send.pdb
