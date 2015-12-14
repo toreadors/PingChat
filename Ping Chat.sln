@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Send", "Send\Send.csproj", "{216A6715-BE65-4FC9-8848-F9666150A031}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recieve", "Recieve\Recieve.csproj", "{F7FAF49A-DD23-489E-A38A-6A4CC1132A29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{216A6715-BE65-4FC9-8848-F9666150A031}.Debug|x86.ActiveCfg = Debug|x86
+		{216A6715-BE65-4FC9-8848-F9666150A031}.Debug|x86.Build.0 = Debug|x86
+		{216A6715-BE65-4FC9-8848-F9666150A031}.Release|x86.ActiveCfg = Release|x86
+		{216A6715-BE65-4FC9-8848-F9666150A031}.Release|x86.Build.0 = Release|x86
+		{F7FAF49A-DD23-489E-A38A-6A4CC1132A29}.Debug|x86.ActiveCfg = Debug|x86
+		{F7FAF49A-DD23-489E-A38A-6A4CC1132A29}.Debug|x86.Build.0 = Debug|x86
+		{F7FAF49A-DD23-489E-A38A-6A4CC1132A29}.Release|x86.ActiveCfg = Release|x86
+		{F7FAF49A-DD23-489E-A38A-6A4CC1132A29}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
